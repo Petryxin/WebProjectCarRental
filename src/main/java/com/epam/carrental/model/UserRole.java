@@ -1,4 +1,4 @@
-package com.epam.carrental.domain;
+package com.epam.carrental.model;
 
 public enum UserRole {
     ADMIN, USER;

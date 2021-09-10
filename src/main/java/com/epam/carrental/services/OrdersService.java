@@ -1,6 +1,6 @@
 package com.epam.carrental.services;
 
-import com.epam.carrental.domain.Orders;
+import com.epam.carrental.model.Orders;
 
 import java.util.List;
 

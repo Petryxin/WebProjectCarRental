@@ -1,7 +1,7 @@
 package com.epam.carrental.dao.impl;
 
 import com.epam.carrental.dao.OrdersDao;
-import com.epam.carrental.domain.Orders;
+import com.epam.carrental.model.Orders;
 import com.epam.carrental.hibernateutil.HibernateUtil;
 import org.hibernate.Session;
 import org.hibernate.Transaction;

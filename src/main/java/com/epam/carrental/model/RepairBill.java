@@ -1,4 +1,4 @@
-package com.epam.carrental.domain;
+package com.epam.carrental.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

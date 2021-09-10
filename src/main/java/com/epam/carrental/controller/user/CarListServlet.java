@@ -1,7 +1,7 @@
-package com.epam.carrental.servlets.user;
+package com.epam.carrental.controller.user;
 
 import com.epam.carrental.dao.impl.CarDaoImpl;
-import com.epam.carrental.domain.Car;
+import com.epam.carrental.model.Car;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

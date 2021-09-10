@@ -1,6 +1,6 @@
 package com.epam.carrental.services;
 
-import com.epam.carrental.domain.Car;
+import com.epam.carrental.model.Car;
 
 import java.util.List;
 

@@ -1,10 +1,10 @@
-package com.epam.carrental.servlets.user;
+package com.epam.carrental.controller.user;
 
 import com.epam.carrental.dao.impl.OrdersDaoImpl;
 import com.epam.carrental.dao.impl.RepairBillDaoImpl;
-import com.epam.carrental.domain.Orders;
-import com.epam.carrental.domain.RepairBill;
-import com.epam.carrental.domain.UserWeb;
+import com.epam.carrental.model.Orders;
+import com.epam.carrental.model.RepairBill;
+import com.epam.carrental.model.UserWeb;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

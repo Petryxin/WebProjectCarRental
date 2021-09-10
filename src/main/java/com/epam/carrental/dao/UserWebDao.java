@@ -1,6 +1,6 @@
 package com.epam.carrental.dao;
 
-import com.epam.carrental.domain.UserWeb;
+import com.epam.carrental.model.UserWeb;
 
 
 public interface UserWebDao extends BaseDao<UserWeb> {

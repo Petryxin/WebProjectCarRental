@@ -1,4 +1,4 @@
-package com.epam.carrental.domain;
+package com.epam.carrental.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -15,13 +15,14 @@ import javax.persistence.Id;
 @NoArgsConstructor
 @AllArgsConstructor
 @Entity
-public class Administrator {
+public class Car {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Integer id;
-    private String login;
-    private String password;
-    private UserRole userRole;
-    private String firstName;
-    private String lastName;
+    private String brand;
+    private String model;
+    private int yearOfIssue;
+    private double engineVolume;
+    private boolean rentedCar;
+    private int paymentPerDay;
 }

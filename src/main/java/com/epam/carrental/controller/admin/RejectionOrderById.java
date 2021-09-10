@@ -1,4 +1,4 @@
-package com.epam.carrental.servlets.admin;
+package com.epam.carrental.controller.admin;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

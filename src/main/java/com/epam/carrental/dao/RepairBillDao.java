@@ -1,6 +1,6 @@
 package com.epam.carrental.dao;
 
-import com.epam.carrental.domain.RepairBill;
+import com.epam.carrental.model.RepairBill;
 
 import java.util.List;
 

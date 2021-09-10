@@ -1,11 +1,11 @@
-package com.epam.carrental.servlets.user;
+package com.epam.carrental.controller.user;
 
 import com.epam.carrental.dao.impl.CarDaoImpl;
 import com.epam.carrental.dao.impl.OrdersDaoImpl;
-import com.epam.carrental.domain.Car;
-import com.epam.carrental.domain.OrderStatus;
-import com.epam.carrental.domain.Orders;
-import com.epam.carrental.domain.UserWeb;
+import com.epam.carrental.model.Car;
+import com.epam.carrental.model.OrderStatus;
+import com.epam.carrental.model.Orders;
+import com.epam.carrental.model.UserWeb;
 import com.epam.carrental.services.OrdersService;
 
 import javax.servlet.ServletException;

@@ -1,8 +1,8 @@
 package com.epam.carrental;
 
 
-import com.epam.carrental.domain.Car;
-import com.epam.carrental.domain.Orders;
+import com.epam.carrental.model.Car;
+import com.epam.carrental.model.Orders;
 import com.epam.carrental.services.CarService;
 import com.epam.carrental.services.OrdersService;
 import org.junit.jupiter.api.Assertions;

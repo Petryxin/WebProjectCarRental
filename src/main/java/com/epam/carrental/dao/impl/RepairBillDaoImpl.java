@@ -1,7 +1,7 @@
 package com.epam.carrental.dao.impl;
 
 import com.epam.carrental.dao.RepairBillDao;
-import com.epam.carrental.domain.RepairBill;
+import com.epam.carrental.model.RepairBill;
 import com.epam.carrental.hibernateutil.HibernateUtil;
 import org.hibernate.Session;
 import org.hibernate.Transaction;

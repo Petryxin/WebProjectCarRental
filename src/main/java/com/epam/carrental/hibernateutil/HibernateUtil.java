@@ -1,6 +1,6 @@
 package com.epam.carrental.hibernateutil;
 
-import com.epam.carrental.domain.*;
+import com.epam.carrental.model.*;
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
 import org.hibernate.cfg.Configuration;

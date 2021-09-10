@@ -1,10 +1,10 @@
 package com.epam.carrental;
 
-import com.epam.carrental.domain.Administrator;
-import com.epam.carrental.domain.Car;
-import com.epam.carrental.domain.UserWeb;
+import com.epam.carrental.model.Administrator;
+import com.epam.carrental.model.Car;
+import com.epam.carrental.model.UserWeb;
 import com.epam.carrental.hibernateutil.HibernateUtil;
-import com.epam.carrental.domain.UserRole;
+import com.epam.carrental.model.UserRole;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 

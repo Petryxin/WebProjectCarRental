@@ -2,7 +2,7 @@ package com.epam.carrental.dao.impl;
 
 
 import com.epam.carrental.dao.UserWebDao;
-import com.epam.carrental.domain.UserWeb;
+import com.epam.carrental.model.UserWeb;
 import com.epam.carrental.hibernateutil.HibernateUtil;
 
 import org.hibernate.Session;

@@ -1,10 +1,10 @@
-package com.epam.carrental.servlets.admin;
+package com.epam.carrental.controller.admin;
 
 import com.epam.carrental.dao.impl.CarDaoImpl;
 import com.epam.carrental.dao.impl.OrdersDaoImpl;
-import com.epam.carrental.domain.Car;
-import com.epam.carrental.domain.OrderStatus;
-import com.epam.carrental.domain.Orders;
+import com.epam.carrental.model.Car;
+import com.epam.carrental.model.OrderStatus;
+import com.epam.carrental.model.Orders;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

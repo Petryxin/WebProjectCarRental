@@ -1,7 +1,7 @@
-package com.epam.carrental.servlets.admin;
+package com.epam.carrental.controller.admin;
 
 import com.epam.carrental.dao.impl.RepairBillDaoImpl;
-import com.epam.carrental.domain.RepairBill;
+import com.epam.carrental.model.RepairBill;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
